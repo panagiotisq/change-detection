@@ -4,7 +4,9 @@ This repository implements methods for detecting structural changes in multi-tem
 It contains:
 
 A 2D change detection module using a quadtree-based approach.
+
 ![](screen2.png)
 
 A 3D change detection workflow for volumetric point clouds.
+
 ![](screen1.png)
