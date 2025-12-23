@@ -96,7 +96,8 @@ Three methods were implemented and evaluated:
 Grey = Static background  
 Red / Green / Blue = Changes over three timestamps
 
-For a visual comparison of the methods, see this video on YouTube: [link]([https://www.youtube.com/watch?v=iob8_ANVBWI])
+For a visual comparison of the methods, see this video on YouTube: [watch here](https://www.youtube.com/watch?v=iob8_ANVBWI)
+
 
 
 ---
