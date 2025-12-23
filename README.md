@@ -1,15 +1,3 @@
-# Change Detection in 2D & 3D Point-Clouds
-
-This repository implements methods for detecting structural changes in multi-temporal point-cloud data — both in 2D and 3D.
-It contains:
-
-A 2D change detection module using a quadtree-based approach.
-
-![](screen2.png)
-
-A 3D change detection workflow for volumetric point clouds.
-
-![](screen1.png)
 # 3D & 2D LiDAR Change Detection Framework
 
 This repository implements a robust pipeline for detecting structural and object-level changes in **multi-temporal LiDAR point cloud data**. The framework is designed for **dynamic environments** such as warehouses and urban scenes, where inventory movement, occlusions, and sensor noise present significant challenges.
@@ -123,6 +111,7 @@ This module targets 2D LiDAR scans using a **hierarchical spatial aggregation st
 - Produces coherent object-level detections
 
 **Figure 2**
+![](screen2.png)
 2D Quadtree-based change detection map
 
 ---
