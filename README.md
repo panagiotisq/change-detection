@@ -92,10 +92,11 @@ Three methods were implemented and evaluated:
 - Revealed walls are correctly ignored after object movement
 - Substantially reduces false positives
 
-**Figure 1**
 3D Change Detection results  
 Grey = Static background  
 Red / Green / Blue = Changes over three timestamps
+For a visual comparison of the methods, see this video on YouTube: [link]((https://www.youtube.com/watch?v=iob8_ANVBWI))
+
 
 ---
 
