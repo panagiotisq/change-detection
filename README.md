@@ -16,7 +16,7 @@ The system compares point clouds acquired at different time intervals and identi
 
 ---
 
-## 📦 Framework Overview
+## Framework Overview
 
 The repository contains two independent but complementary modules:
 
@@ -28,7 +28,7 @@ An advanced workflow comparing **purely geometric** methods against a **semantic
 
 ---
 
-## 🏗️ 3D Change Detection (Volumetric)
+## 3D Change Detection (Volumetric)
 
 The 3D module focuses on detecting **moved inventory objects** (e.g., pallets, boxes) in warehouse environments while **filtering out static infrastructure** such as walls, floors, and racks.
 
@@ -97,7 +97,7 @@ Red / Green / Blue = Changes over three timestamps
 
 ---
 
-## 🗺️ 2D Change Detection (Planar)
+## 2D Change Detection (Planar)
 
 This module targets 2D LiDAR scans using a **hierarchical spatial aggregation strategy**.
 
